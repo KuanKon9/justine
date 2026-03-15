@@ -299,27 +299,27 @@ pcm_consent_cookie: 'analytical=true&amp;countryCode=ID&amp;consentId=365003b4-2
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "SARI4D",
-  "image": [
-    "https://res.cloudinary.com/dbb5t7rye/image/upload/v1773610210/bnrsr4d001s_kaq72o.jpg"
-  ],
-  "url": "https://www.mpagencia.com/servicios/",
-  "telephone": "+62-852-9841-2870",
-  "priceRange": "IDR",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Jl. Merpati No. 46",
-    "addressLocality": "Kota Jakarta Selatan",
-    "addressRegion": "DKI Jakarta",
-    "postalCode": "12220",
-    "addressCountry": "ID"
-  },
-  "sameAs": [
-    "https://www.facebook.com/groups/SARI4Dgroup",
-    "https://x.com/SARI4D",
-  ]
+ "@context": "https://schema.org",
+ "@type": "LocalBusiness",
+ "name": "SARI4D",
+ "image": [
+   "https://res.cloudinary.com/dbb5t7rye/image/upload/v1773610210/bnrsr4d001s_kaq72o.jpg"
+ ],
+ "url": "https://www.mpagencia.com/servicios/",
+ "telephone": "+62-852-9841-2870",
+ "priceRange": "IDR",
+ "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "Jl. Merpati No. 46",
+   "addressLocality": "Kota Jakarta Selatan",
+   "addressRegion": "DKI Jakarta",
+   "postalCode": "12220",
+   "addressCountry": "ID"
+ },
+ "sameAs": [
+   "https://www.facebook.com/groups/SARI4Dgroup",
+   "https://x.com/SARI4D"
+ ]
 }
 </script>
 
