@@ -318,7 +318,7 @@ pcm_consent_cookie: 'analytical=true&amp;countryCode=ID&amp;consentId=365003b4-2
   },
   "sameAs": [
     "https://www.facebook.com/groups/SARI4Dgroup",
-    "https://x.com/SARI4D",
+    "https://x.com/SARI4D"
   ]
 }
 </script>
